@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ali Hussein
 - 📖 I am studying Game Design and Development at TUS Thurles
 - 👀 I’m interested in 3D Open-World games and would love to work on them after my degree! 
-- 👨‍💻 I’m looking to work an internship this year as part of my Work Placement module
 - 📫 You can reach me on my University email or personal email
 - 🎓 Uni Email: K00257766@student.lit.ie
 - 📧 Personal Email: hussein794@gmail.com
